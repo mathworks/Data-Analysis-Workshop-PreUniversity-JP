@@ -1,10 +1,10 @@
 # Data Analysis Workshop for Pre-University Students (JP 日本語)
 
-This is **Data Analysis Workshop for pre-university students** content (in Japanese).
+**Content created in collaboration with e-kagaku Academy (https://e-kagaku.com/).**
 
-**This content was developed in collaboration with e-kagaku Academy (https://e-kagaku.com/).**
+*English description follows Japanese description*
 
-English description follows Japanese description.
+---
 
 本コンテンツは中高生向けに作成されたデータ解析のワークショップ教材です．
 
