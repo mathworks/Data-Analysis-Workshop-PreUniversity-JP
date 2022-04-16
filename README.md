@@ -1,8 +1,56 @@
-# Data Analysis Workshop for Pre-University Students (JP)
+# Data Analysis Workshop for Pre-University Students (JP 日本語)
 
-Content in Japanese (日本語コンテンツ)
+This is **Data Analysis Workshop for pre-university students** content (in Japanese).
 
-日本語のReadmeは[こちら](README_jp.md)．
+**This content was developed in collaboration with e-kagaku Academy (https://e-kagaku.com/).**
+
+English description follows Japanese description.
+
+本コンテンツは中高生向けに作成されたデータ解析のワークショップ教材です．
+
+## 対象者
+
+- 数学・科学に興味がある中高生
+- データ科学を学ぼうとしている文系の大学生
+
+いずれも，MATLAB&reg; の使用経験は必要ありません．
+
+## ワークショップの目的
+
+このワークショップは，学生にデータ解析に重要性について体験してもらうものです．成層圏データという実際のデータを使って解析を行う事によって，学生は以下のことを体験します．
+
+- データ解析とはどのようなものか
+- データ解析を行うことによって身の回りの現象を理解すること
+- ロジカル思考と検証をもとに科学的質問を解くこと
+
+## 形式
+
+本コンテンツは以下の形式で活用できます．
+
+- ファシリテーション付きのワークショップ
+- 自己学習コンテンツ
+
+全体の構造は，各学生が自身の理解度に合わせて進めていくものとなっています．ワークショップとして実施する場合は，ファシリテーターは学生の途中経過を確認しながら結果について話し合う場を設けると良いです．教材の中には複数の「考察ポイント」があるので，そこでディスカッションをすることをお勧めします．
+
+![](readme_images/content_example_jp.gif)
+
+## ファイル構造
+
+- Preparation.pdf - 事前準備の資料
+- TroubleShootingGuide.pdf - よく起きるエラーや質問集
+- DSWS_materials/ - ワークショップ用ファイル
+    - tools/
+    - ws_files/
+    - open_mission1.m
+    - sbda_mission0.mlx - <<< このファイルから開始
+
+## 謝辞
+
+この教材は，子どもの科学教育に関わる活動をされている e-kagaku Academy (https://e-kagaku.com/) との協力で作成したものです．
+
+コンテンツ作成をリードしていただいたe-kagaku Academyサポーターの萩原啓介様（東京大学生），岡洸斗様（京都大学生）に感謝を申し上げます．
+
+---
 
 ## Target Audience
 

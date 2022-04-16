@@ -1,4 +1,10 @@
-# 中高生向けデータ解析ワークショップ
+# Data Analysis Workshop for Pre-University Students (JP 日本語)
+
+This is **Data Analysis Workshop for pre-university students** content (in Japanese).
+
+**This content was developed in collaboration with e-kagaku Academy (https://e-kagaku.com/).**
+
+English description follows Japanese description.
 
 本コンテンツは中高生向けに作成されたデータ解析のワークショップ教材です．
 
@@ -43,6 +49,50 @@
 この教材は，子どもの科学教育に関わる活動をされている e-kagaku Academy (https://e-kagaku.com/) との協力で作成したものです．
 
 コンテンツ作成をリードしていただいたe-kagaku Academyサポーターの萩原啓介様（東京大学生），岡洸斗様（京都大学生）に感謝を申し上げます．
+
+---
+
+## Target Audience
+
+- Pre-university students interested in STEM
+- Non-engineering/science university students
+
+In either case, experience in MATLAB&reg; is not needed.
+
+## Goals of the workshop
+
+This workshop is intended to demonstrate the importance of data analysis to young students. By having students perform data analysis on real-world problems, they will experience
+
+- what it means to do data analysis
+- how data analysis helps them understand the world around them
+- the process of problem solving through logical thinking and verification
+
+## Format
+
+The content can be used in two different formats.
+
+- 3-hour workshop with facilitation
+- Self-paced learning
+
+The overall structure is for students to go through the content on their own, at their own pace. When held as a workshop, the facilitator can check in with the students to see the progress and discuss the results. There are multiple "Observation" points within the workshop, and those are good places to hold open discussions.
+
+![](readme_images/content_example.gif)
+
+## File Structure
+
+- Preparation.pdf - preparation steps for using the content
+- TroubleShootingGuide.pdf - common errors and issues that students may face
+- DSWS_materials/ - workshop material
+    - tools/
+    - ws_files/
+    - open_mission1.m
+    - sbda_mission0.mlx - <<< START HERE
+
+## Acknowledgement
+
+This content was developed in collaboration with e-kagaku Academy (https://e-kagaku.com/).
+
+Special thanks to Mr. Keisuke Hagiwara (student at University of Tokyo) and Mr. Hiroto Oka (student at Kyoto University), who were instructors at e-kagaku Academy, for developing the content.
 
 ---
 
