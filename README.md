@@ -1,5 +1,7 @@
 # Data Analysis Workshop for Pre-University Students (JP 日本語)
 
+[![View Data-Analysis-Workshop-PreUniversity-JP on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/110195-data-analysis-workshop-preuniversity-jp)
+
 **Content created in collaboration with e-kagaku Academy (https://e-kagaku.com/).**
 
 *English description follows Japanese description*
