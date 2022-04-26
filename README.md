@@ -94,8 +94,8 @@ The overall structure is for students to go through the content on their own, at
 
 This content was developed in collaboration with e-kagaku Academy (https://e-kagaku.com/).
 
-Special thanks to Mr. Keisuke Hagiwara (student at University of Tokyo) and Mr. Hiroto Oka (student at Kyoto University), who were instructors at e-kagaku Academy, for developing the content.
+Special thanks to Mr. Keisuke Hagiwara (student at University of Tokyo) and Mr. Hiroto Oka (student at Kyoto University), who were instructors at e-kagaku Academy, for leading the development of the content.
 
 ---
 
-Copyright 2020-2022 The MathWorks, Inc.
+*Copyright 2022 The MathWorks, Inc.*
